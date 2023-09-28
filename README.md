@@ -6,36 +6,9 @@
 
 ### Author Links
 
-👋 Hello, I'm Dave Gray.
-
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
-
----
-
-### Description
-
-📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) for this repository.
-
-🚀 This repository shares ALL of the resources referenced during the HTML tutorial series.
-
----
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-
----
 
 ### ⚙ Free Web Dev Tools
 
